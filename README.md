@@ -1,5 +1,5 @@
 # ReactBox
-Table-box with projection and camera captured controlling.
+Table-box with projection and camera captured (infrared) controlling.
 
 **TUIO | reacTIVision | Unity3D**
 
